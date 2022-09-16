@@ -11,6 +11,8 @@ Entities that are first class citizens differ from one programming language to a
 first class citizens. This means that *functions*, *classes*, *methods*, *modules* and virtually all data types have the attributes described above.
 
 ### Some example use case here
+
+`a = lambda x,y : x+y`
   
 ### Why is this important
 - [ ] Design patterns
