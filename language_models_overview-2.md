@@ -1,7 +1,7 @@
 ---
-title: An Overview of Language Models
+title: an overview of language models
 date: 2022-11-14
-spoiler: Where we are now
+spoiler: where we are now
 ---
 
 In the previous post we looked at how languge modelling was done with n-gram models and some key components of neural language models namely the embedding layer and the softmax layer.
