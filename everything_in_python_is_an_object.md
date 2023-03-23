@@ -1,4 +1,7 @@
-## Everything in python is an object
+---
+title: everything in python is an object
+date: 2022-09-15
+---
 
 A popular concept in programming languages is the concept of primitive and non-primitive data types and these data types are represented in different ways
 across different programming languages. In languages like C for example, a primitive data type such as an integer is represented directly in the language
