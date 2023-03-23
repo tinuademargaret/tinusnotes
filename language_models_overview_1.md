@@ -1,7 +1,7 @@
 ---
-title: 'An Overview of Language Models'
+title: 'an overview of language models'
 date: '2022-11-14'
-spoiler: "How it started"
+spoiler: "where we started"
 ---
 
 Language generation by humans is a sequential process. In acts of communication like speaking or writing, language is generated one word at
