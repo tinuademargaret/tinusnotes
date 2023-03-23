@@ -1,4 +1,8 @@
-## Subtle Immutability 
+---
+title: subtle immutability
+date: 2022-09-22
+---
+
 
 "Python has only 3 mutable data structres; lists sets and dictionaries while tuples and strings are immutable." A rhyme for every beginner python programmer, but is that all that there is to mutability and immutability in python?
 
