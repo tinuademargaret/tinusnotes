@@ -17,12 +17,12 @@ can be achieved so I only focus on the good, and plan for the best case scenario
 What about the worst cases? Why am I blinded by my optimisim to see that even though the best is possible the worse is also possible.
 Are the worse cases bad? Am I suppossed to plan for them not to happen or plan on what to do when they happen?
 
-Well maybe worse cases are not neccesarily a bad thing. Yeah, they may seem bad in the moment but in the long run and if handled properly
-can eventually lead to something good.
+Well, maybe worse cases are not neccesarily a bad thing. Yeah, they may seem bad in the moment, but in the long run and if handled properly
+they can eventually lead to something good.
 
-I don't think life is conscious of what is good and bad, life is aseries of events and how we interprete an event is what makes it good or bad.
+I don't think life is conscious of what is good and bad, life is a series of events and how we interprete an event is what makes it good or bad.
 
-So planning how to navigate and manage worse case scenarios shouldn't make you less optimistic instead it would make you a better planner and
+So planning how to navigate and manage worse case scenarios shouldn't make you less optimistic, instead it would make you a better planner and
 would keep the bad days away.
 
 Coincidentally, I opened one of my favorite newsletters, [3-2-1 by James Clear](https://jamesclear.com/3-2-1) this morning and guess the first quote?
@@ -30,4 +30,4 @@ Coincidentally, I opened one of my favorite newsletters, [3-2-1 by James Clear](
 *"The ultimate form of preparation is not planning for a specific scenario, but a mindset that can handle uncertainty".*
 
 The worse case scenario is not the enemy, not planning for them is. Embrace them! Don't be afraid to ask the question "What if X goes wrong?"
-What's fun about everything always going to plan anyways :)
+What's fun about everything always going according to plan anyways :)
